@@ -1,10 +1,3 @@
-# Github-Desafio2
-Ótimo! Agora que você forneceu todas as informações e códigos, vou criar um `README.md` completo para o seu repositório, seguindo as instruções do desafio e incluindo as explicações detalhadas e o código das soluções. Esse README será um ótimo complemento para seu perfil no GitHub.
-
-Aqui está o modelo de README:
-
----
-
 # Resolução de Desafios em Python com GitHub Copilot e ChatGPT
 
 Este repositório contém a resolução de diversos desafios de programação em Python. A proposta foi criar soluções utilizando conceitos básicos da linguagem, como manipulação de strings, operações matemáticas, condicionais e mais. As soluções foram desenvolvidas com o auxílio de ferramentas de IA, como GitHub Copilot e ChatGPT.
